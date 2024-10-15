@@ -1,0 +1,6 @@
+Number 1: 55
+Number 2: 120
+Sum: 175
+Character: q
+Next character: r
+String: Yes...
